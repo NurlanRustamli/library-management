@@ -6,12 +6,6 @@ import java.util.Scanner;
 public class Library {
     Scanner sc = new Scanner(System.in);
     String[] books = new String[10];
-
-    String newBook ;
-    String borrowBook;
-
-
-
     String[] borrowedBooks = new String[10];
     public void LibraryManage() {
 
